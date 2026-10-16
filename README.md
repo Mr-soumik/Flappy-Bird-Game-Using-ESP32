@@ -11,7 +11,7 @@ A retro arcade-style Flappy Bird game engineered for the **ESP32** microcontroll
 ## Facebook👉 https://www.facebook.com/share/r/1DhQRuNj9M/
 <img width="497" height="572" alt="image" src="https://github.com/user-attachments/assets/ecf5512d-6da3-4c80-aac1-5617d2779405" />
 
-## Connect with TechTadka360💝👇
+## Connect With TechTadka360 For More Tech Related Content 💝👇
 
 - YouTube: [@techtadka360official](https://youtube.com/@techtadka360official?si=GdlIntZKv30kPgBk)
 - Instagram: [@techtadka360official](https://www.instagram.com/techtadka360official?igsh=cWR4bnhjdWw1MHdh)
